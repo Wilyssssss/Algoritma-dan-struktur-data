@@ -201,4 +201,6 @@ while True:
     #Update tampilan layar setiap frame
     pygame.display.update()
 
+#TAMBAHAN KATA DARI WILLIAM OKTA JAYA
     #gamenya akan langsung berhenti jika draw, dan gamenya harus dibuka lagi, kalo win bakalan lanjut terus.
+    #Jangan lupa fotonya untuk digabungkan ke dalam folder yang sama agar tidak error.
